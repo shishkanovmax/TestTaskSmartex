@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7B5198AD2A695C6F00A9FD03 /* TestTaskSmatex.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestTaskSmatex.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7B5198AD2A695C6F00A9FD03 /* TestTaskSmartex.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestTaskSmartex.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B5198B02A695C6F00A9FD03 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7B5198B42A695C6F00A9FD03 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		7B5198B92A695C7000A9FD03 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		7B5198AE2A695C6F00A9FD03 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7B5198AD2A695C6F00A9FD03 /* TestTaskSmatex.app */,
+				7B5198AD2A695C6F00A9FD03 /* TestTaskSmartex.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -94,9 +94,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7B5198AC2A695C6F00A9FD03 /* TestTaskSmatex */ = {
+		7B5198AC2A695C6F00A9FD03 /* TestTaskSmartex */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7B5198C12A695C7000A9FD03 /* Build configuration list for PBXNativeTarget "TestTaskSmatex" */;
+			buildConfigurationList = 7B5198C12A695C7000A9FD03 /* Build configuration list for PBXNativeTarget "TestTaskSmartex" */;
 			buildPhases = (
 				7B5198A92A695C6F00A9FD03 /* Sources */,
 				7B5198AA2A695C6F00A9FD03 /* Frameworks */,
@@ -106,9 +106,9 @@
 			);
 			dependencies = (
 			);
-			name = TestTaskSmatex;
+			name = TestTaskSmartex;
 			productName = TestTaskSmatex;
-			productReference = 7B5198AD2A695C6F00A9FD03 /* TestTaskSmatex.app */;
+			productReference = 7B5198AD2A695C6F00A9FD03 /* TestTaskSmartex.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -126,7 +126,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7B5198A82A695C6F00A9FD03 /* Build configuration list for PBXProject "TestTaskSmatex" */;
+			buildConfigurationList = 7B5198A82A695C6F00A9FD03 /* Build configuration list for PBXProject "TestTaskSmartex" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -139,7 +139,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7B5198AC2A695C6F00A9FD03 /* TestTaskSmatex */,
+				7B5198AC2A695C6F00A9FD03 /* TestTaskSmartex */,
 			);
 		};
 /* End PBXProject section */
@@ -353,7 +353,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7B5198A82A695C6F00A9FD03 /* Build configuration list for PBXProject "TestTaskSmatex" */ = {
+		7B5198A82A695C6F00A9FD03 /* Build configuration list for PBXProject "TestTaskSmartex" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7B5198BF2A695C7000A9FD03 /* Debug */,
@@ -362,7 +362,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7B5198C12A695C7000A9FD03 /* Build configuration list for PBXNativeTarget "TestTaskSmatex" */ = {
+		7B5198C12A695C7000A9FD03 /* Build configuration list for PBXNativeTarget "TestTaskSmartex" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7B5198C22A695C7000A9FD03 /* Debug */,
